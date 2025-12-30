@@ -46,3 +46,6 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:yourmail@gmail.com)
 
+## 📈 Contribution Activity
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
