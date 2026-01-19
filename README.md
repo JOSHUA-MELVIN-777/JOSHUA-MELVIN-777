@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=JOSHUA-MELVIN-777&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSHUA-MELVIN-777&layout=compact&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=JOSHUA-MELVIN-777&theme=tokyonight" />
 
 ## 🚀 Projects
 - 🏥 AI-Powered Healthcare Assistant
@@ -43,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 - 📄 Faculty Appraisal System
 
 - ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/joshuamelvin7/))
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:melvinjoshua777@gmail.com)
 
 ## 📈 Contribution Activity
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
